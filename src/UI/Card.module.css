@@ -1,0 +1,7 @@
+.card {
+  margin: auto;
+  background-color: rgb(225, 154, 128);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px -2px #7777779f inset;
+}

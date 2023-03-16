@@ -1,0 +1,23 @@
+.content {
+  width: 90%;
+  max-width: 40rem;
+  margin: auto;
+  display: block;
+  border-bottom: 1px dotted #5c4a4a;
+  padding: 10px;
+}
+.users {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  margin: 10px 0px;
+}
